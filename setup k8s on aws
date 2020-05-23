@@ -1,5 +1,5 @@
                                                   Setup Kubernetes (K8s) Cluster on AWS
-1. #Create Ubuntu EC2 instance - allow 80,443,8080,22
+1. **Create Ubuntu EC2 instance** - allow 80,443,8080,22
 
 2. Update the system using below command
 
