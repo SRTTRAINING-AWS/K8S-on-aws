@@ -8,8 +8,9 @@
    # apt update -y
    
 3. install AWSCLI
-          
-   # curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
+```sh 
+
+   curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
    
    # ls -lrt 
    
@@ -18,6 +19,7 @@
    # unzip awscli-bundle.zip
    
    #./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+   ```
    
 4. Install kubectl ( Kubectl interact with cluster to manage )
 
